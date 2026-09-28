@@ -1,6 +1,6 @@
 # Transportation_Analysis_Dashboards
 Interactive Power BI dashboards for analyzing transportation, logistics, public transit, revenue, costs, profit, shipments, and passenger trends.
-# 📊 Power BI Transportation & Transit Analytics Dashboards
+# Power BI Transportation & Transit Analytics Dashboards
 
 This repository contains two interactive **Power BI dashboards** created to analyze transportation, logistics, and public transit data.
 
@@ -8,9 +8,9 @@ The dashboards provide insights into shipments, transportation modes, carriers, 
 
 ---
 
-## 📌 Dashboards Included
+##  Dashboards Included
 
-### 1. 🚚 Transportation & Logistics Dashboard
+### 1.  Transportation & Logistics Dashboard
 
 This dashboard focuses on shipment and logistics performance.
 
@@ -39,7 +39,7 @@ This dashboard focuses on shipment and logistics performance.
 
 ---
 
-### 2. 🚌 Public Transit Dashboard
+### 2.  Public Transit Dashboard
 
 This dashboard analyzes public transportation performance, passengers, revenue, operating costs, and profit.
 
@@ -77,7 +77,7 @@ This dashboard analyzes public transportation performance, passengers, revenue, 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -92,7 +92,7 @@ This dashboard analyzes public transportation performance, passengers, revenue, 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - Interactive filters and slicers
 - KPI cards for important metrics
@@ -107,7 +107,7 @@ This dashboard analyzes public transportation performance, passengers, revenue, 
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of these dashboards is to transform raw transportation data into meaningful visual insights.
 
@@ -124,7 +124,7 @@ These dashboards help users understand:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Transportation & Logistics Dashboard
 
@@ -136,7 +136,7 @@ These dashboards help users understand:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 PowerBI-Transportation-Transit-Dashboards/
